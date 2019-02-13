@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c2e03f3-3005-4150-94b4-84cf33629fc4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="226" column="52" selection-start-line="226" selection-start-column="52" selection-end-line="226" selection-end-column="52" />
+            <state relative-caret-position="315">
+              <caret line="228" column="148" selection-start-line="228" selection-start-column="148" selection-end-line="228" selection-end-column="148" />
             </state>
           </provider>
         </entry>
@@ -118,14 +119,17 @@
       <workItem from="1537383410390" duration="661000" />
       <workItem from="1543610291091" duration="681000" />
       <workItem from="1546537719099" duration="1414000" />
+      <workItem from="1546983531442" duration="704000" />
+      <workItem from="1550080227757" duration="152000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16923000" />
+    <option name="totallyTimeSpent" value="17779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25519127" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -159,8 +163,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="226" column="52" selection-start-line="226" selection-start-column="52" selection-end-line="226" selection-end-column="52" />
+        <state relative-caret-position="315">
+          <caret line="228" column="148" selection-start-line="228" selection-start-column="148" selection-end-line="228" selection-end-column="148" />
         </state>
       </provider>
     </entry>
